@@ -34,7 +34,7 @@ Follow the instructions below to set up the project on your local machine for de
 
 Ensure you have the following software installed on your system before proceeding:
 
-- Java Development Kit (JDK) 8 or later
+- Java Development Kit (JDK) 17 or later
 - Maven
 - Docker (optional, for containerization)
 
